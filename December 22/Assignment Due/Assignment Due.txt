@@ -1,0 +1,37 @@
+You were asked to assist Raksha in a recent assignment. Raksha has a set of array as input given by her teacher. She has to identify whether the set of number follows the pattern described below.
+
+If the three adjacent numbers are in increasing then decreasing order then it satisfies the requirement and returns true.
+
+Help Raksha produce (true/ false) the required outcomes for each case.
+
+Input Format
+
+The first input t would be the number of input cases.
+
+The next t lines would each have the length of the array and an array nums[].
+
+Constraints
+
+n== nums.length
+
+1 <= n <= 2 * 10^5
+
+-10^9 <= nums[i] <= 10^9
+
+Output Format
+
+true ,if the three adjacent numbers are in increasing then decreasing order.
+
+false ,otherwise.
+
+Sample Input 0
+
+1
+4
+1 2 3 4
+Sample Output 0
+
+false
+Explanation 0
+
+There is no increasing then decreasing pattern in the sequence. All the numbers are in ascending order

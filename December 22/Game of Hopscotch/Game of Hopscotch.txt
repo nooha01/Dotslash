@@ -1,0 +1,28 @@
+In a new version of Hopscotch, the tiles have random numbers indicating the number of tiles ahead you can jump to. You can only win if you are able to reach to the last tile. You will start from the first tile. While standing at the first tile you have to determine if you will win or not.
+
+Input Format
+
+The first input n contains the number of test runs.
+
+The next n lines contains the following:
+
+The input array, nums[].
+
+Constraints
+
+0 <= nums[i] <= 10^5
+
+Output Format
+
+Win ,if the player can reach the last tile. Lose ,otherwise.
+
+Sample Input 0
+
+1
+2 3 1 1 4
+Sample Output 0
+
+true
+Explanation 0
+
+Jump 1 step from index 0 to 1, then 3 steps to the last index.

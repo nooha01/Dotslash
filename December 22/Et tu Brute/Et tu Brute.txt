@@ -1,0 +1,23 @@
+You have time travelled back to the 44th BC to stop Julius Ceaser from being assassinated. You've reached the entrance of the senate where you just saw Marcus Brutus enter. But there's a problem. You have to tell the guards a secret code to get in. Fortunately you remember reading the code in a book. Now you have to convert the code to Roman.
+
+Input Format
+
+The first input n contains the number of test runs.
+
+The next n lines contains the following: The code which is an integer.
+
+Constraints
+
+1<= n <= 100
+
+Output Format
+
+The Roman numeral of the input code
+
+Sample Input 0
+
+1
+58
+Sample Output 0
+
+LVIII
